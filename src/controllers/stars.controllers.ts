@@ -29,14 +29,65 @@ const getStarById = async (req: Request, res: Response) => {
 const createStar = async (req: Request, res: Response) => {
   const length = starsData.length;
   const newId = starsData[length - 1].id + 1;
-  const dataNew = req.body;
+  const {
+    id,
+    name,
+    type,
+    distancia,
+    mass,
+    radius,
+    temperature,
+    luminosity,
+    age,
+    stellar_history,
+  } = req.body;
+
+  const { hydrogen, helium, otros_elementos } = req.body.composition;
 
   const newStar = {
     id: newId,
-    ...dataNew,
+    name,
+    type,
+    distancia,
+    mass,
+    radius,
+    temperature,
+    luminosity,
+    age,
+    composition: {
+      hydrogen,
+      helium,
+      otros_elementos,
+    },
+    stellar_history,
   };
 
   try {
+    if (
+      !name ||
+      !type ||
+      !distancia ||
+      !mass ||
+      !radius ||
+      !temperature ||
+      !luminosity ||
+      !age ||
+      !hydrogen ||
+      !helium ||
+      !otros_elementos ||
+      !stellar_history
+    ) {
+      res.status(400).json({ message: 'Missing data' });
+      return;
+    }
+    if (starsData.find((star) => star.name === name)) {
+      res.status(403).json({ message: 'Star already exists' });
+      return;
+    }
+    if (starsData.find((star) => star.id === id)) {
+      res.status(400).json({ message: 'Star already exists' });
+      return;
+    }
     starsData.push(newStar);
     res.status(201).json(newStar);
   } catch (error: any) {
