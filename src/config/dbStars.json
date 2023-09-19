@@ -1,0 +1,342 @@
+[
+  {
+    "id": 1,
+    "name": "Sirius",
+    "type": "Estrella binaria, Secuencia Principal (tipo A1V)",
+    "distancia": "8.6 años luz",
+    "mass": "2.02 masas solares",
+    "radius": "1.711 radios solares",
+    "temperature": "9,940 K",
+    "luminosity": "25.4 luminosidades solares",
+    "age": "200-300 millones de años",
+    "composition": {
+      "hydrogen": "71%",
+      "helium": "27%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Sirius es una de las estrellas más brillantes en el cielo nocturno y es una estrella binaria compuesta por Sirius A y Sirius B. Es una estrella blanca de la secuencia principal que ha consumido la mayor parte de su hidrógeno y se encuentra en una etapa avanzada de su vida."
+  },
+  {
+    "id": 2,
+    "name": "Betelgeuse",
+    "type": "Supergigante Roja (tipo M1-2Ia-ab)",
+    "distancia": "643 años luz",
+    "mass": "20 masas solares",
+    "radius": "1,000-1,300 radios solares",
+    "temperature": "3,600 K",
+    "luminosity": "100,000 luminosidades solares",
+    "age": "8-10 millones de años",
+    "composition": {
+      "hydrogen": "85%",
+      "helium": "13%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Betelgeuse es una supergigante roja en la etapa final de su vida. Es una de las estrellas más grandes y brillantes conocidas y forma parte de la constelación de Orión."
+  },
+  {
+    "id": 3,
+    "name": "Proxima Centauri",
+    "type": "Enana Roja (tipo M5.5Ve)",
+    "distancia": "4.24 años luz",
+    "mass": "0.12 masas solares",
+    "radius": "0.14 radios solares",
+    "temperature": "3,042 K",
+    "luminosity": "0.0016 luminosidades solares",
+    "age": "5-6 mil millones de años",
+    "composition": {
+      "hydrogen": "71%",
+      "helium": "27%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Proxima Centauri es la estrella más cercana al sistema solar y es una enana roja fría."
+  },
+  {
+    "id": 4,
+    "name": "Alfa Centauri A",
+    "type": "Enana Amarilla (tipo G2V)",
+    "distancia": "4.37 años luz",
+    "mass": "1.1 masas solares",
+    "radius": "1.22 radios solares",
+    "temperature": "5,710 K",
+    "luminosity": "1.5 luminosidades solares",
+    "age": "5-6 mil millones de años",
+    "composition": {
+      "hydrogen": "71%",
+      "helium": "27%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Alfa Centauri A es una estrella similar al Sol y forma parte del sistema estelar Alfa Centauri."
+  },
+  {
+    "id": 5,
+    "name": "Vega",
+    "type": "Estrella de la Secuencia Principal (tipo A0V)",
+    "distancia": "25 años luz",
+    "mass": "2.1 masas solares",
+    "radius": "2.7 radios solares",
+    "temperature": "9,725 K",
+    "luminosity": "37 luminosidades solares",
+    "age": "400-500 millones de años",
+    "composition": {
+      "hydrogen": "71%",
+      "helium": "27%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Vega es una estrella brillante en la constelación de la Lira y es parte del triángulo de verano."
+  },
+  {
+    "id": 6,
+    "name": "Rigel",
+    "type": "Supergigante Azul (tipo B8Ia)",
+    "distancia": "860 años luz",
+    "mass": "17 masas solares",
+    "radius": "70 radios solares",
+    "temperature": "11,000 K",
+    "luminosity": "120,000 luminosidades solares",
+    "age": "10 millones de años",
+    "composition": {
+      "hydrogen": "71%",
+      "helium": "27%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Rigel es una supergigante azul y es la estrella más brillante de la constelación de Orión."
+  },
+  {
+    "id": 7,
+    "name": "Canopus",
+    "type": "Supergigante Amarilla (tipo A9II)",
+    "distancia": "310 años luz",
+    "mass": "8.5 masas solares",
+    "radius": "71 radios solares",
+    "temperature": "7,400 K",
+    "luminosity": "15,000 luminosidades solares",
+    "age": "8-10 millones de años",
+    "composition": {
+      "hydrogen": "71%",
+      "helium": "27%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Canopus es una de las estrellas más brillantes en el cielo y forma parte de la constelación de Carina."
+  },
+  {
+    "id": 8,
+    "name": "Arcturus",
+    "type": "Gigante Roja (tipo K1.5III)",
+    "distancia": "37 años luz",
+    "mass": "1.1 masas solares",
+    "radius": "25 radios solares",
+    "temperature": "4,290 K",
+    "luminosity": "170 luminosidades solares",
+    "age": "7-8 mil millones de años",
+    "composition": {
+      "hydrogen": "71%",
+      "helium": "27%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Arcturus es una gigante roja en la constelación de Boötes y es una de las estrellas más brillantes en el cielo nocturno."
+  },
+  {
+    "id": 9,
+    "name": "Antares",
+    "type": "Supergigante Roja (tipo M1.5Iab-b)",
+    "distancia": "550 años luz",
+    "mass": "12 masas solares",
+    "radius": "680 radios solares",
+    "temperature": "3,500 K",
+    "luminosity": "65,000 luminosidades solares",
+    "age": "10-20 millones de años",
+    "composition": {
+      "hydrogen": "85%",
+      "helium": "13%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Antares es una supergigante roja y es la estrella más brillante de la constelación de Escorpio."
+  },
+  {
+    "id": 10,
+    "name": "Polux",
+    "type": "Gigante Roja (tipo K0IIIb)",
+    "distancia": "34 años luz",
+    "mass": "1.9 masas solares",
+    "radius": "8.8 radios solares",
+    "temperature": "4,500 K",
+    "luminosity": "34 luminosidades solares",
+    "age": "1.1 mil millones de años",
+    "composition": {
+      "hydrogen": "71%",
+      "helium": "27%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Polux es una estrella gigante en la constelación de Géminis y es una de las estrellas más brillantes de esa constelación."
+  },
+  {
+    "id": 11,
+    "name": "Aldebarán",
+    "type": "Gigante Roja (tipo K5III)",
+    "distancia": "65 años luz",
+    "mass": "1.1 masas solares",
+    "radius": "44.2 radios solares",
+    "temperature": "3,900 K",
+    "luminosity": "439 luminosidades solares",
+    "age": "6.8 mil millones de años",
+    "composition": {
+      "hydrogen": "71%",
+      "helium": "27%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Aldebarán es una gigante roja en la constelación de Tauro y es una de las estrellas más brillantes en el cielo nocturno."
+  },
+  {
+    "id": 12,
+    "name": "Acrux",
+    "type": "Estrella binaria, Secuencia Principal (tipo B0.5IV + B1V)",
+    "distancia": "320 años luz",
+    "mass": "15 masas solares (Acrux A)",
+    "radius": "4.5 radios solares (Acrux A)",
+    "temperature": "28,600 K (Acrux A)",
+    "luminosity": "25,000 luminosidades solares (Acrux A)",
+    "age": "10-20 millones de años",
+    "composition": {
+      "hydrogen": "71%",
+      "helium": "27%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Acrux es una estrella binaria compuesta por Acrux A y Acrux B. Acrux A es una estrella azul en la secuencia principal y es la estrella más brillante de la constelación de Crux (la Cruz del Sur)."
+  },
+  {
+    "id": 13,
+    "name": "Alfa Crucis",
+    "type": "Estrella binaria, Subgigante Azul (tipo B1 IV + B2 V)",
+    "distancia": "320 años luz",
+    "mass": "16 masas solares (Alfa Crucis A)",
+    "radius": "5.3 radios solares (Alfa Crucis A)",
+    "temperature": "25,000 K (Alfa Crucis A)",
+    "luminosity": "10,000 luminosidades solares (Alfa Crucis A)",
+    "age": "10-20 millones de años",
+    "composition": {
+      "hydrogen": "71%",
+      "helium": "27%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Alfa Crucis es una estrella binaria compuesta por Alfa Crucis A y Alfa Crucis B. Alfa Crucis A es una subgigante azul y es la segunda estrella más brillante de la constelación de Crux (la Cruz del Sur)."
+  },
+  {
+    "id": 14,
+    "name": "Becrux",
+    "type": "Estrella binaria, Gigante Azul (tipo B0.5III + B1V)",
+    "distancia": "360 años luz",
+    "mass": "20 masas solares (Becrux A)",
+    "radius": "9.6 radios solares (Becrux A)",
+    "temperature": "25,000 K (Becrux A)",
+    "luminosity": "18,000 luminosidades solares (Becrux A)",
+    "age": "10-20 millones de años",
+    "composition": {
+      "hydrogen": "71%",
+      "helium": "27%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Becrux es una estrella binaria compuesta por Becrux A y Becrux B. Becrux A es una gigante azul y es la tercera estrella más brillante de la constelación de Crux (la Cruz del Sur)."
+  },
+  {
+    "id": 15,
+    "name": "Deneb",
+    "type": "Supergigante Blanca (tipo A2Ia)",
+    "distancia": "1,425 años luz",
+    "mass": "19 masas solares",
+    "radius": "203 radios solares",
+    "temperature": "8,500 K",
+    "luminosity": "196,000 luminosidades solares",
+    "age": "5-10 millones de años",
+    "composition": {
+      "hydrogen": "71%",
+      "helium": "27%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Deneb es una supergigante blanca y una de las estrellas más brillantes conocidas. Forma parte de la constelación del Cisne (Cygnus)."
+  },
+  {
+    "id": 16,
+    "name": "Regulus",
+    "type": "Subgigante Azul-Blanca (tipo B7IV)",
+    "distancia": "77.5 años luz",
+    "mass": "3.5 masas solares",
+    "radius": "2.4 radios solares",
+    "temperature": "13,500 K",
+    "luminosity": "288 luminosidades solares",
+    "age": "200-300 millones de años",
+    "composition": {
+      "hydrogen": "71%",
+      "helium": "27%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Regulus es una estrella subgigante azul-blanca en la constelación de Leo y es la estrella más brillante de esa constelación."
+  },
+  {
+    "id": 17,
+    "name": "Achernar",
+    "type": "Supergigante Blanco-Azulada (tipo B6Iab)",
+    "distancia": "139 años luz",
+    "mass": "6.2 masas solares",
+    "radius": "8.7 radios solares",
+    "temperature": "15,300 K",
+    "luminosity": "3,150 luminosidades solares",
+    "age": "30 millones de años",
+    "composition": {
+      "hydrogen": "71%",
+      "helium": "27%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Achernar es una supergigante blanco-azulada y es la estrella más brillante de la constelación de Eridanus (el Río)."
+  },
+  {
+    "id": 18,
+    "name": "Hamal",
+    "type": "Gigante Naranja (tipo K2III)",
+    "distancia": "65 años luz",
+    "mass": "1.6 masas solares",
+    "radius": "14 radios solares",
+    "temperature": "4,580 K",
+    "luminosity": "60 luminosidades solares",
+    "age": "6.6 mil millones de años",
+    "composition": {
+      "hydrogen": "71%",
+      "helium": "27%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Hamal es una gigante naranja en la constelación de Aries y es la estrella más brillante de esa constelación."
+  },
+  {
+    "id": 19,
+    "name": "Polaris",
+    "type": "Estrella de la Secuencia Principal (tipo F7Ib)",
+    "distancia": "431 años luz",
+    "mass": "5.4 masas solares",
+    "radius": "37 radios solares",
+    "temperature": "6,000 K",
+    "luminosity": "2,500 luminosidades solares",
+    "age": "50-70 millones de años",
+    "composition": {
+      "hydrogen": "71%",
+      "helium": "27%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Polaris es una estrella brillante en la constelación de la Osa Menor y es conocida como la Estrella del Norte debido a su proximidad al polo norte celeste."
+  },
+  {
+    "id": 20,
+    "name": "Fomalhaut",
+    "type": "Estrella de la Secuencia Principal (tipo A3V)",
+    "distancia": "25 años luz",
+    "mass": "1.9 masas solares",
+    "radius": "1.8 radios solares",
+    "temperature": "8,590 K",
+    "luminosity": "16.7 luminosidades solares",
+    "age": "200-300 millones de años",
+    "composition": {
+      "hydrogen": "71%",
+      "helium": "27%",
+      "otros_elementos": "2%"
+    },
+    "stellar_history": "Fomalhaut es una estrella brillante en la constelación de Piscis Austrinus y es una de las estrellas más cercanas a nuestro sistema solar."
+  }
+]
